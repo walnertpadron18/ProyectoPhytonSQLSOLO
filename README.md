@@ -1,5 +1,5 @@
 Título del proyecto
-Análisis Estratégico del Flujo Turístico y la Multidestino en Canarias (2010–2024)
+Análisis Estratégico del Flujo Turístico y el multidestino en Canarias (2020–2025)
 
 Objetivo del proyecto
 El objetivo de este proyecto es analizar la evolución de las llegadas de turistas a Canarias, diferenciando entre destinos principales y secundarios. Con ello, busco identificar patrones de movilidad interinsular y dependencia de mercados emisores para optimizar la promoción turística de las islas.
@@ -45,14 +45,10 @@ Exploración de datos (EDA): Agregación temporal por años/meses e islas para i
 
 Metodología aplicada:
 
-Análisis de proporción de multidestino: Comparativa entre TURISTA_PRINCIPAL y TURISTA_SECUNDARIO por territorio.
-
 Análisis de dependencia de mercado: Cálculo de la cuota de mercado por país de residencia.
 
 Resultados / Insights
-Dominio de Reino Unido y Alemania: Representan más del 50% del total de visitantes internacionales. Lanzarote y Fuerteventura tienen una dependencia especialmente alta del mercado británico.
-
-Baja conversión en turismo secundario: La gran mayoría del turismo entra y se queda en una sola isla. Los turistas secundarios representan menos del 3% del volumen total captado por las islas, siendo Lanzarote y Fuerteventura las que más excursiones o estancias secundarias reciben desde Tenerife y Gran Canaria.
+Dominio de Reino Unido y Alemania: Representan más del 50% del total de visitantes internacionales. 
 
 Estacionalidad estable: El volumen se mantiene robusto todo el año, con picos marcados en los meses de invierno para el mercado nórdico y alemán, y en verano para el mercado nacional.
 

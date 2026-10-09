@@ -9,8 +9,8 @@ CREATE TABLE territorio (
 );
 
 CREATE TABLE residencia (
-    codigo_residencia VARCHAR(20)  PRIMARY KEY,     
-    residencia        VARCHAR(30) NOT NULL,
+    codigo_residencia VARCHAR(100)  PRIMARY KEY,     
+    residencia        VARCHAR(100) NOT NULL,
     ciudad_clima      VARCHAR(20)  NULL,          
     latitud           DECIMAL(9,6) NULL,
     longitud          DECIMAL(9,6) NULL
